@@ -1,4 +1,4 @@
-# PROJETO: USANDO A TÉCNICA DE ENGENHARIA SOCIAL (PHISHING) PARA CAPTURA DE SENHAS(FACEBOOK)
+# PROJETO: USANDO A TÉCNICA DE ENGENHARIA SOCIAL (PHISHING) PARA CAPTURA DE SENHAS
 -----------------------------------------------------------
     Captura de login e senha da plataforma facebook.
     Configurando o Phishing no Kali Linux
